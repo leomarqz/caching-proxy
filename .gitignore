@@ -1,0 +1,65 @@
+# ------------------------------
+# .NET / C# Build Artifacts
+# ------------------------------
+bin/
+obj/
+out/
+publish/
+artifacts/
+TestResults/
+*.log
+*.tlog
+*.tmp
+*.bak
+*.db
+*.db-shm
+*.db-wal
+*.cache
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ------------------------------
+# IDEs and Editors
+# ------------------------------
+.vs/
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ------------------------------
+# OS Files
+# ------------------------------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# ------------------------------
+# NuGet
+# ------------------------------
+*.nupkg
+*.snupkg
+*.nuspec
+*.nuget.props
+*.nuget.targets
+packages/
+project.lock.json
+artifacts/
+.nuget/
+
+# ------------------------------
+# Logs and Dumps
+# ------------------------------
+*.log
+*.tlog
+*.dmp
+*.pid
+*.seed
+*.stackdump
+
+# ------------------------------
+# Build System / CLI
+# ------------------------
