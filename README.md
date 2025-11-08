@@ -15,10 +15,16 @@
 
 ### 🚀 Descripción
 
-**Caching Proxy Server** es una aplicación de consola en **C# (.NET 8)** que actúa como un proxy HTTP con almacenamiento en caché.  
+**Caching Proxy Server** es una aplicación de consola en **C# (.NET 8)** inspirada en el proyecto  
+📘 [Caching Server Project – roadmap.sh](https://roadmap.sh/projects/caching-server)
+
+Funciona como un **proxy HTTP con almacenamiento en caché**.  
 Intercepta solicitudes, las reenvía al servidor de origen y guarda las respuestas en memoria durante un tiempo configurable (TTL).
 
-Ideal para practicar desarrollo de red, manejo de caché y patrones asincrónicos en .NET.
+Ideal para practicar:
+- desarrollo de red y caché,
+- manejo asincrónico en .NET,
+- y diseño de aplicaciones orientadas a servicios.
 
 ---
 
@@ -126,10 +132,11 @@ Server: CachingProxy/1.0
 ### 👤 Autor
 
 **Leonel Marquez (::crack::night::)**  
-Especialista en Cloud y Ciberseguridad | Desarrollador Backend .Net  
-📧 leomarqz.main@gmail.com  
+Especialista en Cloud y Ciberseguridad | Backend .Net  
+📧 leomarqz.main@gmail.com 
 🐙 [github.com/leomarqz](https://github.com/leomarqz)
 
 ---
 
 > *Caching Proxy Server — ligero, educativo y práctico.*
+
